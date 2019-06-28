@@ -1,5 +1,5 @@
 package com.tedu.sp01.pojo;
-//ddffgbfg
+
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
@@ -14,4 +14,5 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
+	
 }
